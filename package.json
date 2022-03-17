@@ -44,7 +44,7 @@
     "tape-await": "0.1"
   },
   "dependencies": {
-    "d3-array": "2",
+    "d3-array": "2.12.1",
     "d3-axis": "2",
     "d3-brush": "2",
     "d3-chord": "2",
